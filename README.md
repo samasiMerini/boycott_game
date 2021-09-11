@@ -8,9 +8,9 @@ During the spring-summer 2018, the boycott campaign (“boycotters”) which tar
 - Latest verison of Unity that can be downloaded from [here](https://unity3d.com/get-unity/download). This sample game was tested using Unity 2020.3.0f1.
 - The game was tested on Android, but one should be able to port it to other platforms too.
 
-![.github/images/vd1.gif](.github/images/vd1.gif)
+![.github/images/vd1.gif](.github/images/vd1.gif)  ![.github/images/vd2.gif](.github/images/vd2.gif)
 
-![.github/images/vd2.gif](.github/images/vd2.gif)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
